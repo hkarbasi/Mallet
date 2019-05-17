@@ -1,4 +1,4 @@
-# Mallet
+Mallet
 ======
 
 The patch for recent `Mallet-v2.0.8`
