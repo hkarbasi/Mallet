@@ -9,7 +9,7 @@ All you should do is to replace the files with the existing ones;
 For:
 
 * java files: `/src/cc/mallet/topics/` 
-* class files: `class/cc/mallet/topics`
+* class files: `/class/cc/mallet/topics`
 
 It resolves the issues for me as I haven’t seen Mallet break and throw Exception again under different circumstances. If it doesn’t resolve your issues, you should probably download the latest version from github (https://github.com/mimno/Mallet), debug and build it yourself.
 
